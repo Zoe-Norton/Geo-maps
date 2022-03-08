@@ -1,2 +1,2 @@
 # Geo-maps
-A collection of maps that detail interesting places I have lived or visited.
+A map that details interesting places I have lived or visited.
